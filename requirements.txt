@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+SpeechRecognition
+jiwer
+openai-whisper
+gTTS

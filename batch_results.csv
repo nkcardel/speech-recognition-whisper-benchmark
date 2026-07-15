@@ -1,0 +1,28 @@
+model,file,wer,cer,transcription
+Google Web Speech API,sample_01.wav,0.5,0.4161849710982659,recognition pipeline it contains a short sentence that can be used as ground truth for evaluating experience
+Google Web Speech API,Track1.wav,0.2857142857142857,0.04854368932038835,i'm a sound engineer turn data scientists curious about machine learning and artificial intelligence
+Google Web Speech API,Track2.wav,0.25,0.05660377358490566,my professional background is primarily in media production with a focus on audio it and communications
+Google Web Speech API,Track3.wav,0.375,0.0761904761904762,over the years i've developed the strong interest in digital signal processing sound and music computing
+Google Web Speech API,Track4.wav,0.22727272727272727,0.05217391304347826,as a graduate of sound engineering i make it a priority to strike a balance between art and technology and my work
+Google Web Speech API,Track5.wav,0.3,0.05454545454545454,i believe that nowadays data is the key to everything
+Google Web Speech API,Track6.wav,0.3333333333333333,0.04878048780487805,not only cannot provide a rational explanation for complicated scientific puzzles
+Google Web Speech API,Track7.wav,0.09090909090909091,0.014285714285714285,but it can also give you efficient methodologies for solving problems
+Google Web Speech API,Track8.wav,0.09523809523809523,0.024390243902439025,from the website cookies you've been asked to accept while surfing the web to the sonification of a supermassive black ho
+Whisper (base),sample_01.wav,0.17857142857142858,0.07514450867052024, This is a Samplodio clip for testing the speech recognition pipeline. It contains a short sentence that can be used as ground truth for evaluating transcrib shinec uracy.
+Whisper (base),Track1.wav,0.14285714285714285,0.019417475728155338, I'm a sound engineer turned data scientist. Curious about machine learning and artificial intelligence.
+Whisper (base),Track2.wav,0.0,0.0," My professional background is primarily in media production with a focus on audio, IT, and communications."
+Whisper (base),Track3.wav,0.0625,0.009523809523809525," Over the years, I've developed a strong interest in digital signal processing sound and music computing."
+Whisper (base),Track4.wav,0.13636363636363635,0.034782608695652174," As a graduate of Sound Engineering, I make it a priority to strike a balance between art and technology and my work."
+Whisper (base),Track5.wav,0.0,0.0," I believe that nowadays, data is the key to everything."
+Whisper (base),Track6.wav,0.08333333333333333,0.012195121951219513, Not only can it provide a rational explanation for complicated scientific puzzles.
+Whisper (base),Track7.wav,0.09090909090909091,0.014285714285714285, But it can also give you efficient methodologies for solving problems.
+Whisper (base),Track8.wav,0.14285714285714285,0.016260162601626018, From the website cookies you've been asked to accept while surfing the web to the sonification of a super massive black hole.
+Whisper (medium),sample_01.wav,0.03571428571428571,0.005780346820809248, This is a simple audio clip for testing the speech recognition pipeline. It contains a short sentence that can be used as ground truth for evaluating transcription accuracy.
+Whisper (medium),Track1.wav,0.0,0.0," I'm a sound engineer turned data scientist, curious about machine learning and artificial intelligence."
+Whisper (medium),Track2.wav,0.0,0.0," My professional background is primarily in media production with a focus on audio, IT, and communications."
+Whisper (medium),Track3.wav,0.0,0.0," Over the years, I've developed a strong interest in digital signal processing, sound and music computing."
+Whisper (medium),Track4.wav,0.0,0.0," As a graduate of sound engineering, I make it a priority to strike a balance between art and technology in my work."
+Whisper (medium),Track5.wav,0.0,0.0," I believe that nowadays, data is the key to everything."
+Whisper (medium),Track6.wav,0.0,0.0," Not only can it provide a rational explanation for complicated scientific puzzles,"
+Whisper (medium),Track7.wav,0.0,0.0, but it can also give you efficient methodologies for solving problems.
+Whisper (medium),Track8.wav,0.0,0.0, From the website cookies you've been asked to accept while surfing the web to the sonification of a supermassive black hole
