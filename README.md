@@ -61,7 +61,7 @@ It also tests whether a common cheap preprocessing step (pre-emphasis filtering)
 ## 📂 Repository Structure
 
 ```
-├── Speech_Recognition.ipynb    # Main notebook — all 7 sections
+├── Speech Recognition.ipynb    # Main notebook — all 7 sections
 ├── sample_01.wav               # Synthetic ground-truth sample clip
 ├── Recordings/                 # 8 real narrated clips used in the aggregated benchmark
 │   ├── Track1.wav
